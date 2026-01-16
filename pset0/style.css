@@ -39,5 +39,19 @@ button {
     border-radius: 20px;
     padding: 10px;
     background-color: green;
-    color: white 
+    color: white;
+}
+
+#advanced {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+
+.quest {
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    justify-items: start;
 }
